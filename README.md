@@ -23,5 +23,5 @@ This program offers a modern, GUI-based banking simulator built in Java. This ap
 
 ---
 **Made by Ryley Carlson:**
-*Developed as part of the CSC372 Module 2 Critical Thinking Assignment.*
+*Developed for the CSC372 ProgrammingII Module 2 Critical Thinking Assignment.*
 
