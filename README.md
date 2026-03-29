@@ -22,6 +22,6 @@ This program offers a modern, GUI-based banking simulator built in Java. This ap
 5.  **Receipt:** View your final balance in the exit dialog before the program closes out.
 
 ---
-**Made by Ryley Carlson**
+**Made by Ryley Carlson:**
 *Developed as part of the CSC372 Module 2 Critical Thinking Assignment.*
 
